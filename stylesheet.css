@@ -115,7 +115,7 @@ h2 {
 #group1 {
 	padding-bottom: 1.5em;
 	padding-top: 15em;
-	background-image: url("images/background.png");
+	background-image: url("images/background.jpg");
 }
 
 #group2{
@@ -125,17 +125,17 @@ h2 {
 
 #group3{
 	padding-top: 3em;
-	background-image: url("images/clouds.png");
+	background-image: url("images/clouds.jpg");
 	padding-bottom: 3em;
 
 }
 
 #group4{
-	background-image: url("images/summer-road.png");
+	background-image: url("images/summer-road.jpg");
 }
 
 #group5{
-	background-image: url("images/island.png");
+	background-image: url("images/island.jpg");
 	margin-bottom: -150px;
 }
 
